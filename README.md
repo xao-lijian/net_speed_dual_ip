@@ -1,0 +1,2 @@
+# net_speed_dual_ip
+test_tq47dr_100Gbe
